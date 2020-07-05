@@ -4,6 +4,7 @@ import java.util.Date;
 
 public class ClassStudy {
     static int s;
+    static String myName = "zhr";
     static {
         s = ClassStudy.i;
         System.out.println(s);
